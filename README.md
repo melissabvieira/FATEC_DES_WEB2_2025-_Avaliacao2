@@ -6,6 +6,7 @@ Desenvolver um sistema em PHP para que um lojista possa cadastrar, visualizar e 
 O sistema deve permitir a gestão de produtos apenas após a autenticação do usuário por meio de login com sucesso.
 
 Funcionalidades Implementadas
+
 Os principais requisitos do sistema foram plenamente atendidos. As funcionalidades desenvolvidas incluem:
 
 Autenticação de Usuário (Login e Logout):
